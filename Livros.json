@@ -1,0 +1,65 @@
+[
+    {
+        "titulo": "kkk",
+        "autor": "fff",
+        "genero": "aaa",
+        "status": "Lendo",
+        "avaliacao": 0,
+        "anotacoes": "",
+        "citacoes": ""
+    },
+    {
+        "titulo": "kkk",
+        "autor": "fff",
+        "genero": "aaa",
+        "status": "Lendo",
+        "avaliacao": 0,
+        "anotacoes": "",
+        "citacoes": ""
+    },
+    {
+        "titulo": "abc",
+        "autor": "c",
+        "genero": "c",
+        "status": "Lido",
+        "avaliacao": 10,
+        "anotacoes": "",
+        "citacoes": ""
+    },
+    {
+        "titulo": "abc",
+        "autor": "c",
+        "genero": "c",
+        "status": "Lido",
+        "avaliacao": 10,
+        "anotacoes": "",
+        "citacoes": ""
+    },
+    {
+        "titulo": "rrr",
+        "autor": "rrr",
+        "genero": "aaa",
+        "status": "Em andamento",
+        "avaliacao": 0,
+        "anotacoes": "",
+        "citacoes": ""
+    },
+    {
+        "titulo": "fff",
+        "autor": "aaa",
+        "genero": "aaa",
+        "status": "Lido",
+        "avaliacao": 9,
+        "anotacoes": "",
+        "citacoes": ""
+    },
+    {
+        "titulo": "aaa",
+        "autor": "aa",
+        "genero": "aa",
+        "status": "Lido",
+        "avaliacao": 10,
+        "anotacoes": "",
+        "citacoes": ""
+    }
+]
